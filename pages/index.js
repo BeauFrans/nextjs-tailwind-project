@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="description" content="Generate by create react app" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Hero />
+      <Hero heading="Captur Photography" message="I capture moments in nature and keep them alive." />
     </div>
   );
 }
